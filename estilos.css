@@ -1,0 +1,77 @@
+
+body{
+    background: linear-gradient(rgb(238, 185, 207),rgb(164, 164, 233), white);
+}
+
+q{
+    text-align: center;
+    font-weight: bold;
+}
+h1{
+    background-color: black;
+    color: aliceblue;
+    font-family: great vibes;
+}
+
+ul {
+    text-align: center;
+    font-size: 40px;       
+}
+
+
+.container, img{
+   
+   margin-left: 150px;
+   border-radius: 30px;
+   width: 400px;
+}
+.autora{
+    border: none;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+h2{
+    text-align: center;
+    font-size: 18px;
+    font-family: Itim;
+    font-weight: lighter;
+    
+}
+
+
+.links:hover{
+ background-color:rgb(219, 102, 194);
+  color: aliceblue;
+
+
+}
+
+footer, address{
+    background-color: black;
+    color: aliceblue; 
+    display: flex;
+}
+
+.perfis{
+    display: flex;
+    text-align: end;
+    padding: 5px 10px;
+    margin: 5px, 10px;
+}
+
+button{
+    display: flex;
+    margin: 10px;
+    border-radius: 100px;
+    background-color: rgb(236, 52, 212);
+    border: none;
+    font-family: great vibes;
+    font-size: 16px;
+}
+
